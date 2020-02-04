@@ -1,0 +1,23 @@
+{
+  "name": "check_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"deploy": "gh-pages -d codes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhigopal/check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhigopal/check/issues"
+  },
+  "homepage": "sudhigopal.github.io/check_website ",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
